@@ -4,6 +4,11 @@ This plugin includes prefabs to add new Fish based content to Valheim.
 
 Install on the Server and Client to use.
 
+# Contributions
+Thank you `Azumatt` and `Blaxxun` for their amazing managers to enable me to get my start in Valheim development.
+Thank you `Ceomet` for all your help getting started.
+Thank you `Cookiemilk` for all your support.
+
 # Fish Chum - Fish Spawners
 Use the cauldron to craft Fish chum out of various ingredients.
 These spawners only work in their intended biome zones.
