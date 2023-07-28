@@ -6,7 +6,7 @@ Install on the Server and Client to use.
 
 # Contributions
 Thank you `Azumatt` and `Blaxxun` for their amazing managers to enable me to get my start in Valheim development.
-Thank you `Ceomet` for all your help getting started.
+Thank you `Coemt` for all your help getting started.
 Thank you `Cookiemilk` for all your support.
 
 # Fish Chum - Fish Spawners

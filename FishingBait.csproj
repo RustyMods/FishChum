@@ -112,6 +112,7 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="ItemRecipePatch.cs" />
         <Compile Include="SpawnAreaPatch.cs" />
         <Compile Include="CookingStationPatch.cs" />
         <Compile Include="LootSpawnerPatch.cs" />
